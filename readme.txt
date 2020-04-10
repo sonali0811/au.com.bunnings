@@ -20,7 +20,7 @@ A] Pre-Requisits :
 B] Download Source Code :
 > Go to below URL and download the source code zip file
  https://github.com/sonali0811/au.com.bunnings.git
-
+> Click on "Clone or download" button, click on "Download ZIP" to download.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 C] Import Code to Eclipse :
